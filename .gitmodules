@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lehdr"]
+	path = lehdr
+	url = https://github.com/jamgreen/lehdr
+	shallow = true
+	registered = true
